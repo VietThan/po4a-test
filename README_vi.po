@@ -1,0 +1,92 @@
+# po4a Test
+# Copyright (C) 2021 Viet Than
+# This file is distributed under the same license as the package.
+# VIET THAN <thanhoangviet@gmail.com>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-06-24 21:49-0400\n"
+"PO-Revision-Date: 2021-06-24 21:13-0400\n"
+"Last-Translator: VIET THAN <thanhoangviet@gmail.com>\n"
+"Language-Team: Viet Than Translations <thanhoangviet@gmail.com>\n"
+"Language: VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: README.md:2
+msgid "# PO4A testing"
+msgstr "# PO4A Thí nghiệm"
+
+#. type: Plain text
+#: README.md:4
+msgid "## Inline code"
+msgstr "## Mã trong dòng"
+
+#. type: Plain text
+#: README.md:6
+msgid "`Inline code`"
+msgstr "`Mã trong dòng`"
+
+#. type: Plain text
+#: README.md:8
+msgid "## A line of code"
+msgstr "## Một dòng mã"
+
+#. type: Plain text
+#: README.md:12
+msgid "``` A line of code ```"
+msgstr "``` Một dòng mã ```"
+
+#. type: Plain text
+#: README.md:14
+msgid "## A line of code with GitHub lang"
+msgstr "## Một dòng mã với Github lang"
+
+#. type: Plain text
+#: README.md:18
+msgid "```js let var = 5 ```"
+msgstr "```js let var = 5 ```"
+
+#. type: Plain text
+#: README.md:22
+msgid "```sh $ sudo apt install ```"
+msgstr "```sh $ sudo apt install ```"
+
+#. type: Plain text
+#: README.md:24
+msgid "## A block of code"
+msgstr "## A block of code"
+
+#. type: Plain text
+#: README.md:36
+#, no-wrap
+msgid ""
+"```sh\n"
+"Enumerating objects: 6, done.\n"
+"Counting objects: 100% (6/6), done.\n"
+"Delta compression using up to 4 threads\n"
+"Compressing objects: 100% (4/4), done.\n"
+"Writing objects: 100% (4/4), 14.39 KiB | 1.80 MiB/s, done.\n"
+"Total 4 (delta 3), reused 0 (delta 0)\n"
+"remote: Resolving deltas: 100% (3/3), completed with 2 local objects.\n"
+"To github.com:VietThan/git-flight-rules.git\n"
+"   0cb89eb..a9e5a1b  po4a -> po4a\n"
+"Branch 'po4a' set up to track remote branch 'po4a' from 'origin'.\n"
+"```\n"
+msgstr ""
+"```sh\n"
+"Enumerating objects: 6, done.\n"
+"Counting objects: 100% (6/6), done.\n"
+"Delta compression using up to 4 threads\n"
+"Compressing objects: 100% (4/4), done.\n"
+"Writing objects: 100% (4/4), 14.39 KiB | 1.80 MiB/s, done.\n"
+"Total 4 (delta 3), reused 0 (delta 0)\n"
+"remote: Resolving deltas: 100% (3/3), completed with 2 local objects.\n"
+"To github.com:VietThan/git-flight-rules.git\n"
+"   0cb89eb..a9e5a1b  po4a -> po4a\n"
+"Branch 'po4a' set up to track remote branch 'po4a' from 'origin'.\n"
+"```\n"
